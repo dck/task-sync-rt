@@ -1,4 +1,4 @@
 task-sync-rt
 ====================
 
-Linux kernel module to synchronize processes in real-time system
+Linux kernel module to synchronize processes for Real-Time Linux (CONFIG_PREEMPT_RT).
